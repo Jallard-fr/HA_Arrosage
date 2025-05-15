@@ -1,0 +1,9 @@
+{
+  \"name\": \"Arrosage Automatique\",
+  \"domain\": \"arrosage\",
+  \"documentation\": \"https://github.com/votre-utilisateur/arrosage\",
+  \"codeowners\": [\"Jallard\"],
+  \"requirements\": [],
+  \"version\": \"1.0.0\",
+  \"config_flow\": true
+}
