@@ -1,0 +1,9 @@
+{
+  "domain": "arrosage",
+  "name": "Arrosage Automatique",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": [],
+  "iot_class": "local_polling",
+  "documentation": "https://github.com/votre-repo/arrosage"
+}
