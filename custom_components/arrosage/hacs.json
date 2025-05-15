@@ -1,7 +1,7 @@
 {
   \"name\": \"Arrosage Automatique\",
   \"domain\": \"arrosage\",
-  \"documentation\": \"https://github.com/votre-utilisateur/arrosage\",
+  \"documentation\": \"https://github.com/Jallard-fr/HA_Arrosage",
   \"codeowners\": [\"Jallard\"],
   \"requirements\": [],
   \"version\": \"1.0.0\",
